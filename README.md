@@ -36,6 +36,12 @@ Deployment: Render.com ready
 
 ## Quick Start & Deployment
 ```bash
+
+<div align="center">
+**self-taught freshman → production api in 7 days**  
+**with ai help → gdg-vit core team application**
+</div>
+```
 git clone https://github.com/azlaanaliladha-ACE/azlaan-gdg-2026.git
 cd azlaan-gdg-2026
 npm install
